@@ -72,6 +72,7 @@
    72  sudo apt-get install typora\n  
    sudo apt-get install insomnia
    安装 antigen.zsh   
+   sudo apt-get install ubuntu-touch-sounds  
 
 
 TODO
