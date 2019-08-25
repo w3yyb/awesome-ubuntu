@@ -1,5 +1,5 @@
 # awesome-ubuntu
-使用ubuntu来工作,ubuntu安装,使用,配置指南 (适用PHP程序员，其它人)
+使用ubuntu来工作,ubuntu安装,使用,配置指南 (适用PHP程序员，其它人也可用 )
 
 ###  系统安装
 参考  https://blog.p2hp.com/archives/5249  
