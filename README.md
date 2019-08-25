@@ -1,8 +1,8 @@
 # awesome-ubuntu
 使用ubuntu来工作,ubuntu安装,使用,配置指南
 
-######系统安装 
-
+######系统安装  
+参考  https://blog.p2hp.com/archives/5249  
 ######配置美化
 
 ######软件推荐
@@ -73,6 +73,7 @@
    sudo apt-get install insomnia
    安装 antigen.zsh   
    sudo apt-get install ubuntu-touch-sounds  
+   sudo apt-get install apache2-utils  
 
 
 TODO
