@@ -37,6 +37,15 @@ WPS：办公软件
 坚果云 ：网盘工具  
 网易云音乐 https://music.163.com/#/download  
 robo-3t :mongodb图形客户端  
+redis desktop manager  : redis GUI 客户端  
+sublime text：代码编辑器  
+mysql workbench :mysql GUI客户端  
+crossover ：安装windows软件工具（收费）  
+TIM： 腾讯TIM，用crossover安装  
+remmina：远程桌面工具  
+teamviewer：远程控制  
+
+
 
 
 其它：
