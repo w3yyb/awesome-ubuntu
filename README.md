@@ -61,15 +61,15 @@
    54  sudo apt-get install sysstat  
    55  sudo apt-get install traceroute  
    56  sudo apt-get install ubuntu-restricted-addons\n\n  
-   57  sudo apt-get install unrar\n\n  
-   58  sudo apt-get install attr\n\n  
-   60  sudo apt-get install fdupes\n\n  
-   61  sudo apt-get install fslint\n\n  
-   62  sudo apt-get install gnome-screensaver\n\n  
-   63  sudo apt-get install httpry\n\n  
-   66  sudo apt-get install memcached\n\n  
-   67  sudo apt-get install peek\n\n  
-   72  sudo apt-get install typora\n  
+   57  sudo apt-get install unrar  
+   58  sudo apt-get install attr  
+   60  sudo apt-get install fdupes  
+   61  sudo apt-get install fslint  
+   62  sudo apt-get install gnome-screensaver  
+   63  sudo apt-get install httpry  
+   66  sudo apt-get install memcached  
+   67  sudo apt-get install peek  
+   72  sudo apt-get install typora  
    sudo apt-get install insomnia
    安装 antigen.zsh   
    sudo apt-get install ubuntu-touch-sounds  
