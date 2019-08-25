@@ -6,6 +6,40 @@
 ######配置美化
 
 ######软件推荐
+百度网盘Linux版   http://pan.baidu.com/download   
+FileZilla :ftp客户端  
+Firefox :浏览器  
+GNOME Tweaks： 优化系统工具  
+GIMP：photoshop代替器  
+Chrome:浏览器  
+GParted：分区工具
+Gpick：颜色选取工具  
+Insomnia:API 调试工具  
+KRuler：屏幕尺子  
+Leafpad：文本编辑器
+LibreOffice：办公软件  
+Mail Notification：邮件通知  
+Meld：比较文件工具  
+MongoDB Compass ：mongodb GUI 客户端  
+Nautilus scripts manager：ubuntu 脚本管理器  
+Network Tools：网络工具  
+P3X Redis UI：redis GUI 客户端  
+Peek： 录屏工具，可录成gif与mp4  
+RapidSVN:SVN GUI客户端  
+Remarkable：markdown编辑器  
+Stacer：linux 系统优化与监控工具  
+Tilix:GNOME 的非常好的平铺终端模拟器  
+Typora：  全功能markdown编辑器  
+Variety：自动更换壁纸软件  
+Visual Studio Code：非常好的代码编辑器  
+wewechat：微信客户端   
+WPS：办公软件  
+坚果云 ：网盘工具  
+网易云音乐 https://music.163.com/#/download  
+
+
+
+
 
  32  sudo apt-get install boot-repair  
    36  sudo apt-get install -fy  
