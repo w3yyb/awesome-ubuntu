@@ -36,11 +36,10 @@ wewechat：微信客户端
 WPS：办公软件  
 坚果云 ：网盘工具  
 网易云音乐 https://music.163.com/#/download  
+robo-3t :mongodb图形客户端  
 
 
-
-
-
+其它：
  32  sudo apt-get install boot-repair  
    36  sudo apt-get install -fy  
    38  sudo apt-get install -y grub-pc os-prober  
