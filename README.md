@@ -44,6 +44,8 @@ crossover ：安装windows软件工具（收费）
 TIM： 腾讯TIM，用crossover安装  
 remmina：远程桌面工具  
 teamviewer：远程控制  
+Gufw Firewall：防火墙  
+
 
 
 
