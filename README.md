@@ -1,11 +1,11 @@
 # awesome-ubuntu
 使用ubuntu来工作,ubuntu安装,使用,配置指南 (适用PHP程序员，其它人)
 
-######系统安装  
+###  系统安装
 参考  https://blog.p2hp.com/archives/5249  
-######配置美化
+###  配置美化
 
-######软件推荐
+###  软件推荐
 百度网盘Linux版   http://pan.baidu.com/download   
 FileZilla :ftp客户端  
 Firefox :浏览器  
@@ -50,7 +50,7 @@ Gufw Firewall：防火墙
 
 
 
-其它：
+其它：  
  32  sudo apt-get install boot-repair  
    36  sudo apt-get install -fy  
    38  sudo apt-get install -y grub-pc os-prober  
