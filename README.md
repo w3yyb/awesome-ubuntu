@@ -70,6 +70,7 @@
    66  sudo apt-get install memcached\n\n  
    67  sudo apt-get install peek\n\n  
    72  sudo apt-get install typora\n  
+   sudo apt-get install insomnia
 
 
 TODO
