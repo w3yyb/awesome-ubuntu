@@ -6,7 +6,7 @@
 ###  配置美化
 
 ###  软件推荐
-`如非指明：请用ubuntu软件中心安装： `   
+**如非指明：请用ubuntu软件中心安装：**  
 `百度网盘Linux版`   http://pan.baidu.com/download   
 `FileZilla` :ftp客户端  
 `Firefox` :浏览器  
