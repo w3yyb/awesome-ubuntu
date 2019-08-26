@@ -62,11 +62,8 @@ sudo apt-get install mongodb
 sudo apt-get install redis  
 sudo apt-get install mysql  
 sudo apt-get install rapidsvn  
-sudo apt-get install meld  
-sudo apt-get install nautilus3  
-sudo apt-get install rabbitvcs-nautilus3   
+sudo apt-get install meld   
 sudo snap install redis-desktop-manager  
-sudo apt-get install vscode  
 sudo apt install variety  
 sudo apt install subversion  
 sudo apt install git  
