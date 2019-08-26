@@ -6,12 +6,13 @@
 ###  配置美化
 
 ###  软件推荐
+`如非指明：请用ubuntu软件中心安装： `   
 百度网盘Linux版   http://pan.baidu.com/download   
 FileZilla :ftp客户端  
 Firefox :浏览器  
 GNOME Tweaks： 优化系统工具  
 GIMP：photoshop代替器  
-Chrome:浏览器  
+Chrome:浏览器  https://www.google.cn/chrome/  
 GParted：分区工具
 Gpick：颜色选取工具  
 Insomnia:API 调试工具  
@@ -20,7 +21,7 @@ Leafpad：文本编辑器
 LibreOffice：办公软件  
 Mail Notification：邮件通知  
 Meld：比较文件工具  
-MongoDB Compass ：mongodb GUI 客户端  
+MongoDB Compass ：mongodb GUI 客户端  https://www.mongodb.com/download-center/compass  
 Nautilus scripts manager：ubuntu 脚本管理器  
 Network Tools：网络工具  
 P3X Redis UI：redis GUI 客户端  
@@ -29,21 +30,21 @@ RapidSVN:SVN GUI客户端
 Remarkable：markdown编辑器  
 Stacer：linux 系统优化与监控工具  
 Tilix:GNOME 的非常好的平铺终端模拟器  
-Typora：  全功能markdown编辑器  
+Typora：  全功能markdown编辑器  https://www.typora.io/  
 Variety：自动更换壁纸软件  
-Visual Studio Code：非常好的代码编辑器  
-wewechat：微信客户端   
-WPS：办公软件  
+Visual Studio Code：非常好的代码编辑器  https://code.visualstudio.com/  
+wewechat：微信客户端   https://github.com/trazyn/weweChat  
+WPS：办公软件  https://linux.wps.cn/  
 坚果云 ：网盘工具  
 网易云音乐 https://music.163.com/#/download  
-robo-3t :mongodb图形客户端  
+robo-3t :mongodb图形客户端  https://robomongo.org/download  
 redis desktop manager  : redis GUI 客户端  
 sublime text：代码编辑器  
 mysql workbench :mysql GUI客户端  
-crossover ：安装windows软件工具（收费）  
+crossover ：安装windows软件工具（收费）  https://www.codeweavers.com/products/crossover-linux  
 TIM： 腾讯TIM，用crossover安装  
 remmina：远程桌面工具  
-teamviewer：远程控制  
+teamviewer：远程控制  https://www.teamviewer.cn/cn/download/linux/  
 Gufw Firewall：防火墙  
 GitHub desktop: https://github.com/shiftkey/desktop  
 微信LIte（pwa应用）：https://m.weibo.cn/beta 安装方法：https://baijiahao.baidu.com/s?id=1596434637672077344&wfr=spider&for=pc   
