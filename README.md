@@ -51,7 +51,7 @@ GitHub desktop: https://github.com/shiftkey/desktop
 
 
 其它：  
-sudo apt-get install boot-repair  (启动菜单修复器)  
+sudo apt-get install boot-repair  (启动菜单修复器,如果需要)  
 sudo apt-get install tilix  
 sudo apt-get install nginx  
 sudo apt-get install curl gnupg2 ca-certificates lsb-release  
