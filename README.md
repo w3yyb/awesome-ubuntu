@@ -111,4 +111,7 @@ sudo apt-get install ubuntu-touch-sounds
 sudo apt-get install apache2-utils  
 sudo apt-get install gedit-plugins   
 
+### GNOME Shell 扩展  
+https://extensions.gnome.org/  
+
 
