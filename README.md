@@ -13,11 +13,11 @@
 `GNOME Tweaks`： 优化系统工具  
 `GIMP`：photoshop代替器  
 `Chrome`:浏览器  https://www.google.cn/chrome/  
-`GParted`：分区工具
+`GParted`：分区工具  
 `Gpick`：颜色选取工具  
 `Insomnia`:API 调试工具  
 `KRuler`：屏幕尺子  
-`Leafpad`：文本编辑器
+`Leafpad`：文本编辑器  
 `LibreOffice`：办公软件  
 `Mail Notification`：邮件通知  
 `Meld`：比较文件工具  
