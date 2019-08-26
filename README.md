@@ -45,6 +45,7 @@ TIM： 腾讯TIM，用crossover安装
 remmina：远程桌面工具  
 teamviewer：远程控制  
 Gufw Firewall：防火墙  
+GitHub desktop: https://github.com/shiftkey/desktop  
 
 
 
