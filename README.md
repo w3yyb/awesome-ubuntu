@@ -50,21 +50,16 @@ GitHub desktop: https://github.com/shiftkey/desktop
 
 
 其它：  
- sudo apt-get install boot-repair  
-sudo apt-get install -fy  
-sudo apt-get install -y grub-pc os-prober  
+sudo apt-get install boot-repair  (启动菜单修复器)  
 sudo apt-get install tilix  
 sudo apt-get install nginx  
-sudo apt install curl gnupg2 ca-certificates lsb-release  
-sudo apt install nginx  
+sudo apt-get install curl gnupg2 ca-certificates lsb-release  
 sudo apt-get install software-properties-common  
-sudo apt-get install php7.0  
+sudo apt-get install php7.0：具体安装PHP请参考 https://www.p2hp.com/install.php    
 sudo apt install vim  
-sudo apt-get install numlockx  
 sudo apt-get install mongodb  
 sudo apt-get install redis  
 sudo apt-get install mysql  
-sudo apt-get install mysqld  
 sudo apt-get install rapidsvn  
 sudo apt-get install meld  
 sudo apt-get install nautilus3  
@@ -99,7 +94,6 @@ sudo apt-get install nmon
 sudo apt-get install rar  
 sudo apt-get install shtool  
 sudo apt-get install sl  
-sudo apt-get install stacer  
 sudo apt-get install stacer   
 sudo apt-get install sysstat  
 sudo apt-get install traceroute  
