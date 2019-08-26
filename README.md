@@ -46,6 +46,7 @@ remmina：远程桌面工具
 teamviewer：远程控制  
 Gufw Firewall：防火墙  
 GitHub desktop: https://github.com/shiftkey/desktop  
+微信LIte（pwa应用）：https://m.weibo.cn/beta 安装方法：https://baijiahao.baidu.com/s?id=1596434637672077344&wfr=spider&for=pc   
 
 
 其它：  
