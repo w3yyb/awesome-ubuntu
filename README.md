@@ -43,7 +43,7 @@
 `mysql workbench` :mysql GUI客户端  
 `crossover` ：安装windows软件工具（收费）  https://www.codeweavers.com/products/crossover-linux  
 `TIM`： 腾讯TIM，用crossover安装  
-`QQ` : 腾讯QQ https://im.qq.com/linuxqq/index.html
+`QQ` : 腾讯QQ https://im.qq.com/linuxqq/index.html  
 `remmina`：远程桌面工具  
 `teamviewer`：远程控制  https://www.teamviewer.cn/cn/download/linux/  
 `Gufw Firewall`：防火墙  
