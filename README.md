@@ -50,7 +50,7 @@
 `GitHub desktop`: https://github.com/shiftkey/desktop  
 `微博LIte`（pwa应用）：https://m.weibo.cn/beta 安装方法：https://baijiahao.baidu.com/s?id=1596434637672077344&wfr=spider&for=pc   
 `Gnome Games` ：Gnome 小游戏集合  
-`腾讯视频Linux版`：远程控制  https://v.qq.com/download.html#linux  
+`腾讯视频Linux版`：https://v.qq.com/download.html#linux  
 
 
 其它：  
