@@ -52,6 +52,7 @@
 `Gnome Games` ：Gnome 小游戏集合  
 `深度终端` ：有远程管理功能。（文件上传下载）  
 `腾讯视频Linux版`：https://v.qq.com/download.html#linux  
+`搜狗输入法 for linux` https://pinyin.sogou.com/linux/?r=pinyin  
 
 
 其它：  
