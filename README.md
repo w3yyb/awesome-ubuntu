@@ -111,6 +111,7 @@ sudo apt-get install memcached
 sudo apt-get install peek  
 sudo apt-get install typora  
 sudo apt-get install insomnia  
+sudo apt-get install zssh  
 安装 antigen.zsh   
 sudo apt-get install ubuntu-touch-sounds  
 sudo apt-get install apache2-utils  
