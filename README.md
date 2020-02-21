@@ -20,6 +20,7 @@
 `Leafpad`：文本编辑器  
 `LibreOffice`：办公软件  
 `Mail Notification`：邮件通知  
+`mailnag`:邮件通知 https://github.com/pulb/mailnag  
 `Meld`：比较文件工具  
 `MongoDB Compass` ：mongodb GUI 客户端  https://www.mongodb.com/download-center/compass  
 `Nautilus scripts manager`：ubuntu 脚本管理器  
