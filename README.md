@@ -54,6 +54,7 @@
 `深度终端` ：有远程管理功能。（文件上传下载）  
 `腾讯视频Linux版`：https://v.qq.com/download.html#linux  
 `搜狗输入法 for linux` https://pinyin.sogou.com/linux/?r=pinyin  
+`HandBrake1 :视频转换压缩软件 https://handbrake.fr/  
 
 
 其它：  
