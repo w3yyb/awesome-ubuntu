@@ -56,6 +56,7 @@
 `搜狗输入法 for linux` https://pinyin.sogou.com/linux/?r=pinyin  
 `HandBrake` :视频转换压缩软件 https://handbrake.fr/  
 `FFQueue`: 视频转码软件 http://ffqueue.bruchhaus.dk/  
+`云日历（万年历)`: https://mytime.ruanmei.com/  
 
 
 其它：  
