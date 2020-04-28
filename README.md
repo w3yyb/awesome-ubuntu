@@ -124,6 +124,8 @@ sudo apt-get install gedit-plugins
 
 ### GNOME Shell 扩展  
 https://extensions.gnome.org/  
+### snap程序  
+https://snapcraft.io/  
 
 ### 在ubuntu上安装macos 软件,android软件 
 http://darlinghq.org/  
