@@ -131,5 +131,5 @@ https://snapcraft.io/
 ### 在ubuntu上安装macos 软件,android软件 
 http://darlinghq.org/  
 https://anbox.io/  
-`xDroid:国产`：https://www.linzhuotech.com/index.php/home/index/xdroid.html  
+`xDroid:国产(推荐）`：https://www.linzhuotech.com/index.php/home/index/xdroid.html  
 
