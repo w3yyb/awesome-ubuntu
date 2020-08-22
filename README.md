@@ -61,6 +61,7 @@
 `CoCoMusic(一个QQ音乐客户端)`:https://github.com/xtuJSer/CoCoMusic  
 `Apifox接口文档、调试、Mock、自动化测试`:https://www.apifox.cn/  
 `百度输入法(五笔/拼音)`:https://srf.baidu.com/site/guanwang_linux/index.html  
+`画流程图软件`:https://github.com/jgraph/drawio-desktop  
 
 
 其它：  
