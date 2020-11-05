@@ -62,6 +62,7 @@
 `Apifox接口文档、调试、Mock、自动化测试`:https://www.apifox.cn/  
 `百度输入法(五笔/拼音)`:https://srf.baidu.com/site/guanwang_linux/index.html  
 `画流程图软件`:https://github.com/jgraph/drawio-desktop  
+`另一个好的redis GUI客户端`:https://github.com/qishibo/AnotherRedisDesktopManager  
 
 
 其它：  
