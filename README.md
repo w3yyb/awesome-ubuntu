@@ -63,6 +63,7 @@
 `百度输入法(五笔/拼音)`:https://srf.baidu.com/site/guanwang_linux/index.html  
 `画流程图软件`:https://github.com/jgraph/drawio-desktop  
 `另一个好的redis GUI客户端`:https://github.com/qishibo/AnotherRedisDesktopManager  
+`墨刀(原型设置)`: https://modao.cc/downloads  
 
 
 其它：  
