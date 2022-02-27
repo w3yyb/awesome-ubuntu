@@ -64,6 +64,7 @@
 `画流程图软件`:https://github.com/jgraph/drawio-desktop  
 `另一个好的redis GUI客户端`:https://github.com/qishibo/AnotherRedisDesktopManager  
 `墨刀(原型设置)`: https://modao.cc/downloads  
+`微信官方版`: https://www.ubuntukylin.com/applications/106-cn.html  
 
 
 其它：  
