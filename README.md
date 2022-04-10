@@ -65,6 +65,10 @@
 `另一个好的redis GUI客户端`:https://github.com/qishibo/AnotherRedisDesktopManager  
 `墨刀(原型设置)`: https://modao.cc/downloads  
 `微信官方版`: https://www.ubuntukylin.com/applications/106-cn.html  
+`motrix（下载软件）`: https://motrix.app/  
+
+
+
 
 
 其它：  
