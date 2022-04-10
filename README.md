@@ -66,7 +66,7 @@
 `墨刀(原型设置)`: https://modao.cc/downloads  
 `微信官方版`: https://www.ubuntukylin.com/applications/106-cn.html  
 `motrix（下载软件）`: https://motrix.app/  
-`截图`: 截  
+`截图`: 截图软件  
 
 
 
