@@ -67,6 +67,7 @@
 `微信官方版`: https://www.ubuntukylin.com/applications/106-cn.html  
 `motrix（下载软件）`: https://motrix.app/  
 `截图`: 截图软件  
+`QQ音乐`: https://y.qq.com/download/download.html  
 
 
 
