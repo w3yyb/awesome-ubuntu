@@ -68,10 +68,11 @@
 `motrix（下载软件）`: https://motrix.app/  
 `截图`: 截图软件  
 `QQ音乐`: https://y.qq.com/download/download.html  
+`FinalShell:inalShell 是一款免费的国产的集 SSH 工具、服务器管理、远程桌面加速的良心软件，同时支持 Windows,macOS,Linux`:http://www.hostbuf.com/t/1059.html 
 
 
 
-GNOME应用  
+GNOME应用:  
 在应用商店中搜索GNOME,出来一些好的应用
 有：便签，天气，时钟，GNOME 软件包管理器，Drawing，音乐，Sysprof：系统性能分析器，文本编辑器
 
