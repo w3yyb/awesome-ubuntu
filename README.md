@@ -68,8 +68,8 @@
 `motrix（下载软件）`: https://motrix.app/  
 `截图`: 截图软件  
 `QQ音乐`: https://y.qq.com/download/download.html  
-`FinalShell:inalShell 是一款免费的国产的集 SSH 工具、服务器管理、远程桌面加速的良心软件，同时支持 Windows,macOS,Linux`:http://www.hostbuf.com/t/1059.html 
-`ApiPost（接口调试）`: https://www.apipost.cn/  
+`FinalShell:inalShell 是一款免费的国产的集 SSH 工具、服务器管理、远程桌面加速的良心软件，同时支持 Windows,macOS,Linux`:http://www.hostbuf.com/t/1059.html   
+`ApiPost（更好的接口调试）`: https://www.apipost.cn/  
 
 
 GNOME应用:  
