@@ -70,6 +70,7 @@
 `QQ音乐`: https://y.qq.com/download/download.html  
 `FinalShell:inalShell 是一款免费的国产的集 SSH 工具、服务器管理、远程桌面加速的良心软件，同时支持 Windows,macOS,Linux`:http://www.hostbuf.com/t/1059.html   
 `ApiPost（更好的接口调试）`: https://www.apipost.cn/  
+`Free Download Manager（下载软件:這是一款在Windows, macOS, Android 及Linux 作業系統下，強大又現代的下載加速組織器）`: https://www.freedownloadmanager.org/zh/    
 
 
 GNOME应用:  
