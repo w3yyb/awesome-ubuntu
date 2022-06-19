@@ -87,6 +87,7 @@ sudo apt-get install software-properties-common
 sudo apt-get install php7.0：具体安装PHP请参考 https://www.p2hp.com/install.php    
 sudo apt install vim  
 sudo apt-get install mongodb  
+sudo apt install nautilus-image-converter (
 sudo apt-get install redis  
 sudo apt-get install mysql  
 sudo apt-get install rapidsvn  
