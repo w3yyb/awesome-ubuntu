@@ -151,3 +151,6 @@ http://darlinghq.org/
 https://anbox.io/  
 `xDroid:国产(推荐）`：https://www.linzhuotech.com/index.php/home/index/xdroid.html  
 
+### 扩展 GNOME 生态系统的应用程序和库。  
+https://circle.gnome.org/ 
+
